@@ -1,0 +1,14 @@
+body {
+	background-color: lightgreen;
+	font-family: Helvetica, sans-serif;
+	color: darkcyan;
+}
+
+h1 {
+	color: darkblue;
+	text-decoration: underline wavy;
+}
+
+img {
+	height: 100px;
+}
